@@ -26,7 +26,7 @@ sh script_eval_norm.sh
 ```
 
 ## Acknowledgments
-Our code references the following open-source projects
+Our code references the following open-source projects:
  - [RDDM](https://github.com/nachifur/RDDM)
  - [MSD-Font](https://github.com/fubinfb/MSD-Font)
  - [FFG](https://github.com/clovaai/fewshot-font-generation)
