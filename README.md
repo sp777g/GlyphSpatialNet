@@ -6,14 +6,23 @@ Please refer to this [repository](https://github.com/sp777g/GlyphSpatialNet_Data
 
 ## Training
 
+```
+```
+
 ## Testing
+
+```
+```
 
 ## Evaluation
 
+```
+```
+
 ## Acknowledgments
 Our code references the following open-source projects
- - 1
- - 2
- - 3
+ - [RDDM]()
+ - [MSD-Font]()
+ - [FFG]()
 
 We thank the authors for their excellent work.
