@@ -15,11 +15,14 @@ pip install tqdm tensorboard lpips torchmetrics einops
 ## Training & Testing
 
 ```
+sh script_main.sh
 ```
 
 ## Evaluation
 
 ```
+sh script_eval.sh
+sh script_eval_norm.sh
 ```
 
 ## Acknowledgments
