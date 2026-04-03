@@ -12,7 +12,7 @@ pip --default-timeout=99999 install torch==2.5.1 torchvision==0.20.1 torchaudio=
 pip install tqdm tensorboard lpips torchmetrics einops
 ```
 
-## Training && Testing
+## Training & Testing
 
 ```
 ```
