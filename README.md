@@ -21,8 +21,8 @@ Please refer to this [repository](https://github.com/sp777g/GlyphSpatialNet_Data
 
 ## Acknowledgments
 Our code references the following open-source projects
- - [RDDM]()
- - [MSD-Font]()
- - [FFG]()
+ - [RDDM](https://github.com/nachifur/RDDM)
+ - [MSD-Font](https://github.com/fubinfb/MSD-Font)
+ - [FFG](https://github.com/clovaai/fewshot-font-generation)
 
 We thank the authors for their excellent work.
