@@ -4,12 +4,15 @@ This is the official repository for the CVPR 2026 paper "Rethinking Glyph Spatia
 ## Dataset
 Please refer to this [repository](https://github.com/sp777g/GlyphSpatialNet_Dataset) to build the dataset.
 
-## Training
-
+## Conda Environment
 ```
+conda create -n FFG python=3.12 -y && conda activate FFG
+
+pip --default-timeout=99999 install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+pip install tqdm tensorboard lpips torchmetrics einops
 ```
 
-## Testing
+## Training && Testing
 
 ```
 ```
